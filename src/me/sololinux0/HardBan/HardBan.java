@@ -13,7 +13,7 @@ public class HardBan extends JavaPlugin{
 	}
 
 	public void onDisable() {
-		log - Logger.getLogger("Minecraft")
-		log.info("HardBan disabed")
+		log - Logger.getLogger("Minecraft");
+		log.info("HardBan disabed");
 	}
 }
